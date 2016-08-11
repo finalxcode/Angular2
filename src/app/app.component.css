@@ -26,3 +26,18 @@ nav a:hover {
 nav a.active {
   color: #039be5;
 }
+
+.heroes li {
+  cursor: pointer;
+  position: relative;
+  left: 0;
+  background-color: red;
+  margin: .5em;
+  padding: .3em 0;
+  height: 1.6em;
+  border-radius: 4px;
+}
+
+p {
+  color:red;
+}
