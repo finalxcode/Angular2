@@ -11,3 +11,4 @@ describe('Component: HeroList', () => {
       expect(component).toBeTruthy();
     }));
 });
+
